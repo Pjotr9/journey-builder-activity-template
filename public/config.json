@@ -8,8 +8,8 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Template",
-          "description": "A Template for a custom Journey Builder activity",
+            "name": "Peter's Custom Activity",
+          "description": "New custom Journey Builder activity for testing purposes",
           "step1Label": "Configure Activity"
         }
     },
